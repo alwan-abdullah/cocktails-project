@@ -1,7 +1,6 @@
 import Lottie from 'react-lottie';
 import animationData from './lottie/cocktail_animation.json';
 import { useState, useEffect } from 'react';
-import background from "./img/coctail.jpg";
 
 
 function App() {
